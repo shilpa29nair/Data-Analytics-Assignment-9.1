@@ -1,5 +1,5 @@
 
-#------------------------Assignment 17 -----------------------------
+#------------------------Assignment 9.1 -----------------------------
 # Weight Lifting Exercise Analysis
 
 # Import Data Set
